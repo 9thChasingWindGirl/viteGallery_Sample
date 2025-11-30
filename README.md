@@ -104,8 +104,10 @@ viteGallery/
 ├── services/            # 服务层
 │   └── geminiService.ts # Gemini API 服务
 ├── utils/               # 工具函数和数据
-│   ├── Album/           # 本地媒体文件
 │   └── mockData.ts      # 模拟数据
+├── public/              # 本地媒体文件
+│   ├── img/             # 图片文件
+│   └── video/           # 视频文件
 ├── .env                 # 环境变量配置
 ├── .env.example         # 环境变量示例
 ├── .gitignore           # Git 忽略文件
@@ -190,7 +192,7 @@ viteGallery/
 
 ## 📞 联系方式
 
-- 项目链接：[viteGallery](https://github.com/9thChasingWindGirl/viteGallery)
+- 个人博客：[速溶理查](https://blog.whysoserious.dpdns.org/)
 
 ---
 
